@@ -13,6 +13,13 @@
             "Description": "OverPowered HUB that'll let you win every round.",
             "ThumbNail": "ted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_OfVEkq-Mb3ea-KVzmj2yVsXBlZPOY_1iM_OJuvoiuka4G1cyfKuf9OGJR0cgkdsi_3U&usqp=CAU"
            
+        },
+        {
+            "Name": "Unlock emotes MM2",
+            "Url": "https://github.com/Z0iruS/Scriptss/raw/master/UnlockEmotesMM2",
+            "Description": "Execute this and check your emote inventory!",
+            "ThumbNail": "https://i.imgur.com/qBFEjMu.png"
+           
         }
        
     ]
